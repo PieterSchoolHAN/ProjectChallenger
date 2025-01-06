@@ -1,0 +1,37 @@
+layers: 1, regulariser: L1(0.001), accuracy: 0.7696, time: 38.92s
+layers: 1, regulariser: L1(0.010), accuracy: 0.7411, time: 38.92s
+layers: 1, regulariser: L1(0.100), accuracy: 0.5582, time: 35.7s
+layers: 1, regulariser: L2(0.001), accuracy: 0.772, time: 41.11s
+layers: 1, regulariser: L2(0.010), accuracy: 0.772, time: 35.08s
+layers: 1, regulariser: L2(0.100), accuracy: 0.772, time: 33.15s
+layers: 2, regulariser: L1(0.001), accuracy: 0.7672, time: 34.89s
+layers: 2, regulariser: L1(0.010), accuracy: 0.7696, time: 35.49s
+layers: 2, regulariser: L1(0.100), accuracy: 0.4561, time: 36.49s
+layers: 2, regulariser: L2(0.001), accuracy: 0.772, time: 36.11s
+layers: 2, regulariser: L2(0.010), accuracy: 0.7815, time: 34.71s
+layers: 2, regulariser: L2(0.100), accuracy: 0.7791, time: 35.25s
+layers: 3, regulariser: L1(0.001), accuracy: 0.7672, time: 36.42s
+layers: 3, regulariser: L1(0.010), accuracy: 0.4561, time: 38.55s
+layers: 3, regulariser: L1(0.100), accuracy: 0.4561, time: 37.9s
+layers: 3, regulariser: L2(0.001), accuracy: 0.7625, time: 38.71s
+layers: 3, regulariser: L2(0.010), accuracy: 0.772, time: 38.98s
+layers: 3, regulariser: L2(0.100), accuracy: 0.4561, time: 37.33s
+total time: 663.73slayers: 1, regulariser: L1(0.001), accuracy: 0.7672, time: 38.68s
+layers: 1, regulariser: L1(0.010), accuracy: 0.7387, time: 36.06s
+layers: 1, regulariser: L1(0.100), accuracy: 0.5534, time: 36.59s
+layers: 1, regulariser: L2(0.001), accuracy: 0.772, time: 35.9s
+layers: 1, regulariser: L2(0.010), accuracy: 0.7791, time: 37.08s
+layers: 1, regulariser: L2(0.100), accuracy: 0.7767, time: 35.53s
+layers: 2, regulariser: L1(0.001), accuracy: 0.7696, time: 40.02s
+layers: 2, regulariser: L1(0.010), accuracy: 0.772, time: 39.8s
+layers: 2, regulariser: L1(0.100), accuracy: 0.4561, time: 39.17s
+layers: 2, regulariser: L2(0.001), accuracy: 0.7696, time: 37.54s
+layers: 2, regulariser: L2(0.010), accuracy: 0.7601, time: 38.44s
+layers: 2, regulariser: L2(0.100), accuracy: 0.7791, time: 38.69s
+layers: 3, regulariser: L1(0.001), accuracy: 0.7648, time: 39.78s
+layers: 3, regulariser: L1(0.010), accuracy: 0.4561, time: 39.14s
+layers: 3, regulariser: L1(0.100), accuracy: 0.4561, time: 40.02s
+layers: 3, regulariser: L2(0.001), accuracy: 0.7696, time: 39.54s
+layers: 3, regulariser: L2(0.010), accuracy: 0.7743, time: 39.05s
+layers: 3, regulariser: L2(0.100), accuracy: 0.4561, time: 38.27s
+total time: 689.29s

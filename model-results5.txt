@@ -1,0 +1,19 @@
+layers: 1, regulariser: L1(0.001), accuracy: 0.7672, time: 36.02s
+layers: 1, regulariser: L1(0.010), accuracy: 0.7435, time: 45.42s
+layers: 1, regulariser: L1(0.100), accuracy: 0.5439, time: 41.65s
+layers: 1, regulariser: L2(0.001), accuracy: 0.7743, time: 41.12s
+layers: 1, regulariser: L2(0.010), accuracy: 0.7743, time: 39.07s
+layers: 1, regulariser: L2(0.100), accuracy: 0.7696, time: 41.35s
+layers: 2, regulariser: L1(0.001), accuracy: 0.7648, time: 44.01s
+layers: 2, regulariser: L1(0.010), accuracy: 0.7743, time: 54.45s
+layers: 2, regulariser: L1(0.100), accuracy: 0.4561, time: 48.49s
+layers: 2, regulariser: L2(0.001), accuracy: 0.7696, time: 50.29s
+layers: 2, regulariser: L2(0.010), accuracy: 0.7791, time: 48.21s
+layers: 2, regulariser: L2(0.100), accuracy: 0.7791, time: 45.04s
+layers: 3, regulariser: L1(0.001), accuracy: 0.7696, time: 52.05s
+layers: 3, regulariser: L1(0.010), accuracy: 0.4561, time: 41.84s
+layers: 3, regulariser: L1(0.100), accuracy: 0.4561, time: 46.31s
+layers: 3, regulariser: L2(0.001), accuracy: 0.7791, time: 43.61s
+layers: 3, regulariser: L2(0.010), accuracy: 0.7767, time: 44.1s
+layers: 3, regulariser: L2(0.100), accuracy: 0.4561, time: 38.61s
+total time: 801.64s
